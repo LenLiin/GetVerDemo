@@ -1,0 +1,3 @@
+﻿在app.manifest中设置<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/>
+
+打开项目属性选择安全性，勾选clickone，保存后自动生成app.manifest。然后再需要勾选
